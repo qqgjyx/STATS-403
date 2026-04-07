@@ -177,3 +177,5 @@ cython_debug/
 data/
 
 out/
+# overleaf_STATS403_FinalProject — managed as its own git repo
+cp/
